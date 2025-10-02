@@ -1,0 +1,58 @@
+# ----------------------------
+# Node.js & Express backend
+# ----------------------------
+node_modules/
+.env
+.env.local
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ----------------------------
+# Python (AI Agent)
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+Pipfile.lock
+
+# ----------------------------
+# Hardhat (Smart Contracts)
+# ----------------------------
+artifacts/
+cache/
+deployments/
+ignition/deployments/
+typechain/
+typechain-types/
+coverage/
+gas-report.txt
+
+# ----------------------------
+# OS + Editor/IDE Files
+# ----------------------------
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# ----------------------------
+# Git
+# ----------------------------
+.git/
+*.log
+*.tgz
+*.bak
+
+# ----------------------------
+# Flask (Python AI Server)
+# ----------------------------
+instance/
+*.sqlite3
+flask_session/
