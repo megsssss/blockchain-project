@@ -28,4 +28,4 @@ TradeTrust is a blockchain-based platform for facilitating secure, transparent, 
 
 
 
-[cite\_start]This project is licensed under the MIT License[cite: 1].
+
